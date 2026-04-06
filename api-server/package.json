@@ -1,0 +1,5 @@
+"scripts": {
+  "dev": "node --loader tsx/esm src/server.ts",
+  "start": "node dist/server.js",
+  "build": "tsc"
+},
